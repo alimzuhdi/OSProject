@@ -74,10 +74,14 @@ codespace
 
 Look at the TERMINAL tab. Run the following commands and provide the output here. 
 
-1. Run the command **pwd** . ***(1 mark)*** __![Alt text](image.png)__.
-2. Run the command **cat /etc/passwd** . ***(1 mark)*** __![Alt text](image-1.png)__.
-3. Run the command **df** . ***(1 mark)*** __Fill answer here__.
-4. Run the command **du** . ***(1 mark)*** __Fill answer here__.
+1. Run the command **pwd** . ***(1 mark)***
+```bash
+@alimzuhdi ➜ /workspaces/OSProject (main) $ pwd
+/workspaces/OSProject
+```
+2. Run the command **cat /etc/passwd** . ***(1 mark)*** __![Alt text](image-1.png)__
+3. Run the command **df** . ***(1 mark)*** __![Alt text](image-2.png)__
+4. Run the command **du** . ***(1 mark)*** __![Alt text](image-3.png)__
 5. Run the command **ls** . ***(1 mark)*** __Fill answer here__.
 6. Run the command **ls -asl** . ***(1 mark)*** __Fill answer here__.
 7. Run the command **free -h** . ***(1 mark)*** __Fill answer here__.
