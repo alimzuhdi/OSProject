@@ -23,7 +23,7 @@ Team Mates:
 ***Questions:***
 
 1. What is the link of the fork OSProject in your repository. ***(1 mark)*** __https://github.com/alimzuhdi/OSProject/tree/main__.
-2. How many files and folders are in this repository. ***(1 mark)*** __Two__.
+2. How many files and folders are in this repository. ***(1 mark)*** __Seven total__.
 
 
 ## Exploring github codespaces
