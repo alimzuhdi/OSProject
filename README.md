@@ -336,7 +336,7 @@ MiB Swap:      0.0 total,      0.0 free,      0.0 used.   5992.9 avail Mem
 @alimzuhdi ➜ /workspaces/OSProject (main) $ uname -a
 Linux codespaces-ceaae7 6.2.0-1018-azure #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
 ```
-11. What is the available free memory in the system. ***(1 mark)*** __Fill answer here__.
+11. What is the available free memory in the system. ***(1 mark)*** __173 Mi__.
 12. What is the available disk space mounted on /workspace. ***(1 mark)*** __Fill answer here__.
 13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** __Fill answer here__.
 14. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** __Fill answer here__.
@@ -455,9 +455,14 @@ docker run --detach -v /workspaces/OSProject/webpage:/usr/local/apache2/htdocs/ 
 
 ***Questions:***
 
-1. What is the permission of folder /usr/local/apache/htdocs and what user and group owns the folder? . ***(2 mark)*** __Fill answer here__.
+1. What is the permission of folder /usr/local/apache/htdocs and what user and group owns the folder? . ***(2 mark)***
+permission: rwxr-xr-x
+user: root
+group: root
 2. What port is the apache web server running. ***(1 mark)***
+Port 80
 3. What port is open for http protocol on the host machine? ***(1 mark)***
+Port 80
 
 ## What to submit
 
